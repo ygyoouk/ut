@@ -1,0 +1,15 @@
+logs
+*.log
+npm-debug.log*
+.DS_Store
+
+*.iml
+.idea
+.tscache
+node_modules/
+typings/
+coverage/
+package-lock.json
+dist/
+
+.gemini
