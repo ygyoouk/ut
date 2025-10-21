@@ -13,3 +13,6 @@ package-lock.json
 dist/
 
 .gemini
+
+# Sensitive environment variables
+ut-community/.env
